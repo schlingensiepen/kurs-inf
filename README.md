@@ -17,24 +17,32 @@ mitbekommen:
    **Apply**.
 
 Benachrichtigungen kommen dann per E-Mail oder in der
-GitHub-App. Ohne GitHub-Konto können Sie Änderungen
-an dieser Seite per Feed verfolgen:
+GitHub-App.
+
+Ohne GitHub-Konto können Sie die Ankündigungen per
+Feed verfolgen — tragen Sie diese Adresse in einen
+Feed-Reader ein:
+`https://github.com/schlingensiepen/kurs-inf/discussions.atom`
+Änderungen an dieser Seite selbst:
 `https://github.com/schlingensiepen/kurs-inf/commits/main.atom`
 
 [Alle Ankündigungen](https://github.com/schlingensiepen/kurs-inf/discussions/categories/announcements)
 
+Fragen zum Kurs stellen Sie unter
+[Discussions → Q&A](https://github.com/schlingensiepen/kurs-inf/discussions/categories/q-a).
+
 ## Hinweis: Google Gemini für Studierende
 
-Google bietet Studierenden ab 18 das Plus-Abo von
-Gemini **1 Jahr lang kostenlos** an:
+Google bietet Studierenden und Auszubildenden ab 18
+das Plus-Abo von Gemini **1 Jahr lang kostenlos** an:
 [gemini.google/students](https://gemini.google/students/)
 
 Bitte beachten Sie: Das Angebot gilt nur bis
 **31.12.2026**. Bei der Anmeldung ist ein
-Zahlungsmittel nötig, und das Abo verlängert sich
-danach automatisch kostenpflichtig, wenn Sie es nicht
-kündigen (monatlich kündbar). Die genauen Bedingungen
-stehen auf der Angebotsseite.
+Zahlungsmittel nötig. Ohne Kündigung verlängert sich
+das Abo später automatisch kostenpflichtig (laut
+Angebotsseite 21,99 €/Monat, monatlich kündbar). Die
+genauen Bedingungen stehen auf der Angebotsseite.
 
 ## Arbeitsumgebung
 
